@@ -1,10 +1,9 @@
-uniba-hive-udf
-==============
+# uniba-hive-udf
 
 UDFs for Uniba-Hive project
 
 
-### Building the project
+## Building the project
 
 Building JAR package with Maven
 
@@ -12,7 +11,7 @@ Building JAR package with Maven
 mvn package
 ```
 
-### Use the extension
+## Use the extension
 
 Load JAR from Hive and use it by creating temporary functions
 
