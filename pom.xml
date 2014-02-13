@@ -3,10 +3,10 @@
 
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.uniba.udfs</groupId>
-  <artifactId>hive-extensions</artifactId>
+  <artifactId>uniba-hive-udf</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>hive-extensions</name>
+  <name>uniba-hive-udf</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
